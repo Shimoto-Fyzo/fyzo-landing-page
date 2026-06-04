@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Fyzo - Creator First Streaming</title>
+
+<style>
+body{
+    background:#111;
+    color:white;
+    font-family:Arial,sans-serif;
+    text-align:center;
+    margin:0;
+    padding:0;
+}
+
+.hero{
+    padding:80px 20px;
+}
+
+h1{
+    font-size:4rem;
+}
+
+p{
+    max-width:700px;
+    margin:auto;
+    line-height:1.7;
+}
+
+.button{
+    display:inline-block;
+    margin-top:30px;
+    padding:15px 30px;
+    background:#8b5cf6;
+    color:white;
+    text-decoration:none;
+    border-radius:10px;
+}
+
+.section{
+    padding:60px 20px;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="hero">
+    <h1>Fyzo</h1>
+
+```
+<h2>A Creator-First Platform</h2>
+
+<p>
+    Streaming, community, and growth built around creators and users.
+</p>
+
+<a class="button" href="#waitlist">
+    Join the Waitlist
+</a>
+```
+
+</div>
+
+<div class="section">
+    <h2>Why Fyzo?</h2>
+
+```
+<p>
+    We believe creators deserve a platform that listens, communicates,
+    and grows alongside its community.
+</p>
+```
+
+</div>
+
+<div class="section">
+    <h2>What We're Building</h2>
+
+```
+<p>
+    Live streaming, creator communities, meaningful engagement,
+    and future innovations designed to support creators.
+</p>
+```
+
+</div>
+
+<div class="section" id="waitlist">
+    <h2>Beta Waitlist Opening Soon</h2>
+
+```
+<p>
+    Join early and help shape the future of Fyzo.
+</p>
+
+<p>
+    Contact: your-email@example.com
+</p>
+```
+
+</div>
+
+</body>
+</html>
